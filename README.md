@@ -10,6 +10,6 @@ ShopIt is a mobile shopping application built with Flutter that allows users to 
 - View previous orders
 
 ## Technologies Used
--Flutter
--Dart
+- Flutter
+- Dart
 
