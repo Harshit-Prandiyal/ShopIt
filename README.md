@@ -1,16 +1,15 @@
-# shopit
+#ShopIt - Flutter Shopping App
+ShopIt is a mobile shopping application built with Flutter that allows users to browse and purchase products. The application has basic functions such as allowing users to mark a product favourite, displaying the total amount and item list, and showing previous orders.
 
-A new Flutter project.
+##Features
+-Add products to cart
+-View and modify cart
+-Mark a product as favourite
+-View list of favourite products
+-Checkout and place an order
+-View previous orders
 
-## Getting Started
+##Technologies Used
+-Flutter
+-Dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
